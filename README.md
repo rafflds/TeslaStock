@@ -29,10 +29,10 @@ A análise exploratória e preditiva foi feita usando Python, com o auxílio de 
 ## Insights e Conclusões
 
 *   **Tendência de Alta:** Os preços das ações da Tesla demonstraram um crescimento substancial ao longo do tempo, com flutuações e momentos de alta volatilidade.
-    <img src="ts_plot.png" alt="Preços ao longo do tempo" width="500">
+    
 
 *   **Volatilidade:** A ação apresenta alta volatilidade diária, com períodos de picos expressivos de volume de negociação.
-   <img src="volatility_plot.png" alt="Volatilidade ao longo do tempo" width="500">
+
 
 *   **Outliers:** Foram identificados outliers, especialmente nos dados de volume e preço. É necessária uma investigação mais aprofundada sobre os eventos que causam esses outliers.
 *   **Correlação:** Os preços de abertura, máxima, mínima e fechamento são altamente correlacionados, conforme o esperado. O volume tem baixa correlação com os preços.
@@ -42,12 +42,12 @@ A análise exploratória e preditiva foi feita usando Python, com o auxílio de 
     *   O modelo Prophet, utilizando sazonalidades anuais e semanais, teve um desempenho melhor que o ARIMA, porém ainda com alta volatilidade.
     *   O modelo LSTM conseguiu gerar previsões com menor RMSE do que os outros modelos, apresentando resultados mais precisos nas ultimas datas.
 
-    <img src="rmse_plot.png" alt="Resultados dos modelos de regressão" width="500">
+
 
 *   **Fatores Externos:** A variação dos preços da ação da Tesla apresenta uma correlação com a variação do índice S\&P 500, indicando uma influência do mercado no preço da ação.
 *   **Impacto de Eventos:** O mercado reage fortemente a notícias e informações relevantes, impactando o preço da ação de forma positiva ou negativa.
 
-     ![Gráfico Candlestick](candle_stick.gif)
+   
 
 ## Recomendações
 
