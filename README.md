@@ -66,19 +66,3 @@ A análise exploratória e preditiva foi feita usando Python, com o auxílio de 
     ```
 4.  Execute o notebook `analysis.ipynb` para reproduzir as análises e visualizar os resultados.
 
-## Próximos Passos
-
-*   Explorar outros modelos preditivos, especialmente redes neurais e algoritmos de machine learning.
-*   Realizar um estudo mais aprofundado sobre o impacto de notícias e outros eventos no comportamento da ação.
-*   Criar visualizações adicionais, como mapas de calor das correlações ao longo do tempo.
-*   Construir um dashboard interativo para analisar os dados de forma dinâmica.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/license/mit/).
-
-## Autor
-
-Desenvolvido por: [Seu Nome]
-Contato: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-[Seu perfil no GitHub ou Linkedin](https://github.com/[seu-usuario-github])
